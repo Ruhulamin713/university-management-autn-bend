@@ -1,0 +1,16 @@
+using azile method
+
+******
+create project in jira using scrum template
+
+assign the project.
+go to backlog drag the project to sprint
+start the sprint, go to board drag the project from todo to in progress
+ start the project
+
+ vs code 
+ setup package.json with yarn
+ install typescript,express,mongoose,dotenv
+ create tsc file & edit root and outdir 
+ crate a .env file
+ create gitignore and necessary file to  it like node_modules

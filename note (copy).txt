@@ -14,3 +14,5 @@ start the sprint, go to board drag the project from todo to in progress
  create tsc file & edit root and outdir 
  crate a .env file
  create gitignore and necessary file to  it like node_modules
+
+ create a branch with the name of jira <i class="fa fa-ticket" aria-hidden="true"></i>

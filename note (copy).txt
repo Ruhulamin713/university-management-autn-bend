@@ -15,4 +15,15 @@ start the sprint, go to board drag the project from todo to in progress
  crate a .env file
  create gitignore and necessary file to  it like node_modules
 
- create a branch with the name of jira <i class="fa fa-ticket" aria-hidden="true"></i>
+
+// to create a branch
+ create a branch with the name of jira ticket 
+ like
+ git checkout -b UMSA-2
+ git push origin UMSA-2
+
+ // goto jira add another ticket 
+ name setup mongoose,cors,parser
+then-
+ git checkout -b UMSA-2
+ now setup mongoose

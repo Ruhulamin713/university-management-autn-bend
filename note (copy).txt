@@ -26,4 +26,4 @@ start the sprint, go to board drag the project from todo to in progress
  name setup mongoose,cors,parser
 then-
  git checkout -b UMSA-2
- now setup mongoose
+ now setup mongoose,express cors parser

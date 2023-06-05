@@ -26,4 +26,23 @@ start the sprint, go to board drag the project from todo to in progress
  name setup mongoose,cors,parser
 then-
  git checkout -b UMSA-2
- now setup mongoose
+ now setup mongoose,express cors parser
+
+  git checkout -b UMSA-4
+
+ install eslint prettier husky and lint stage
+
+when installing husky 
+ yarn add husky --dev
+ yarn husky install
+ yarn husky add .husky/pre-commit "yarn lint" // to run the lint command in package.json
+
+
+//lint stage
+ add "lint-prettier":"yarn lint && yarn formate" in script of package.json
+yarn add lint-staged -D
+add "lint-staged": {
+    "src/**/*.ts": "yarn lint-prettier"
+  }
+ in script 
+ add yarn lint-staged in pre-commit file inside .husky

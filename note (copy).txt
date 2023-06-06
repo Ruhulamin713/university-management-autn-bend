@@ -272,3 +272,4 @@ add "lint-staged": {
   }
  in script 
  add yarn lint-staged in pre-commit file inside .husky
+

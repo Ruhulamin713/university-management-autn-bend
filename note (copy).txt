@@ -1,3 +1,229 @@
+Create a website for ph university:
+
+*First step of web development is Authentication.
+*2nd we need  Management for managing a process
+*3rd payment
+we can call them as service individually  and they are internally connected so that they can complete their respective job.
+as we are using micro service architecture, we consider all the individual  service as a separate application.
+
+
+Software development life cycle: for proper software build.
+Steps of SDL: 
+
+1.Analysis:Done by Product owner,Project manager,Business Analyst,CTO
+    steps of analysis:
+    1.product requirement documentation(PRD),
+    2.Business  requirement documentation(PRD),
+    3.Software Requirements Specification(srs)
+    4.Functional Requirement Document(frd)
+
+2.Design:done by System Architect ui/ux designer: create model
+    1.High level design document.
+    2.low level Design Document
+    3.Database Schema
+
+ 3.Implementation:by developer
+ 4.Testing :Solutions Architect, QA engineer, Tester:text plan,test case,teet Scripts,Defeate Reportts
+ 5.Maintenance:user->Support manager->Tester->Developers
+
+ Points to be use during development: 1:Requirement analysis,
+ 2:ERD Diagram(tubular)
+ 3:wire fram
+
+
+ ***********************Requirement Analysis**********
+for university management system:
+
+1.Description: we are building university management system where we have three roles. 
+they are : 1. Admin
+            2.Student,
+            3.Faculty
+
+
+Functional Requirement:
+            1.Student:
+                a.Student can login and log out.
+                b.Student can mange and update their profile.
+                c.student can update certain field.
+                d.Student can enroll in a semester.
+                e.Student can enroll in offered courses for a       specific semester.
+                f.Student can pay their tuition fee through online or offline(payment can be partial or full )
+                g.Can see their transaction.
+                h.Student can see their class routine.
+                i.Student can see notices and events.
+                j.Can see their result.(result per semester and full transcript)
+                k.Student can evaluate their teachers
+            2.Admin:
+                a.Admin can login and logout
+                b.Admin can update and manage their profile
+                c.Admin can only update some certain field.
+                d.can manage Student and Faculty accounts:
+                        .Block/unblock
+                        .Change password
+                        .Force logout
+                e.Can manage  multiple process
+                        .semester
+                        .offered courses
+                        .Section
+                        .Faculty
+                        .Student
+                        .building 
+                        .payment
+                        .permission
+                        .activity
+
+            3.Faculty:
+                a. can login and logout
+                b. can update and manage their profile
+                c. can only update some certain field.
+                d. Faculty can manage student grade.
+                e.has access to academic and personal information.
+                f.Can manage their lecture resources.
+
+
+**************************************************************************Creating model:
+
+
+
+Authentication Application:
+
+Permission;
+1.title,
+
+UserPermission:
+1.permissionid
+2.userid
+
+User:
+    1.id
+    2.role
+    3.password
+    4.cratedDate
+    5.updateDate
+    6.student||Admin||Faculty _id
+
+Student Attribute/model
+    _id,
+    name:{
+        firstName,
+        middleName,
+        lastName
+    },
+    guardian,
+    contactNo,
+    emergencyContact,
+    permanentAddress,
+    presentAddress,
+    department,
+    subject,
+    email,
+    gender,
+    dateOfBirth,
+    permission
+
+
+Admin Attribute/model
+     _id,
+     password,
+    name:{
+        firstName,
+        middleName,
+        lastName
+    },
+    contactNo,
+    emergencyContact,
+    permanentAddress,
+    presentAddress,
+    department,
+    email,
+    gender,
+    dateOfBirth,
+    department,
+    role,
+    
+Faculty Attribute/model
+    _id,
+     password,
+    name:{
+        firstName,
+        middleName,
+        lastName
+    },
+    contactNo,
+    emergencyContact,
+    permanentAddress,
+    presentAddress,
+    email,
+    gender,
+    dateOfBirth,
+    department,
+    Faculty,
+    designation
+
+
+
+// create diagram er diagram on draw.io
+
+//api end-Points
+
+//for admin
+ *user/create-admin(post)
+ *user/create-students(post)
+ *user/create-faculty(post)
+ *user/my-profile(get)
+ *user/:id(get)  //get a profile info
+ *user/:id(patch)  //update a profile info
+ *user?page=1&limit=10 (get) //pagination with query string and dynamic value
+ *user/:id/available-permission (get) //see all permission
+ *user/:id/available-permission?page=1&limit=10 (get) //see all permission with pagination
+ *user/:id/assigned-permission(get) //see all permission with 
+ *user/:delete(delete)
+
+ *user/:id/force-log-out
+ *user/:id/assign-permission(post)
+ *user/:id/remove-permission(post)
+
+ // student api
+ *student/:id (patch)
+ *student/:id (get)
+ *student?page=1&limit=10 
+
+ // faculty api
+ *faculty/:id (get)
+ *faculty/:id (patch)
+ *faculty?page=1&limit=10 
+
+// admin api
+ *admin/:id (get)
+ *admin/:id (patch)
+ *admin?page=1&limit=10 
+
+ //api end point for permission
+ *permission/ (get)
+ *permission/ (post) //create permission
+ *permission/:id (get) // permission
+ *permission/:id (patch) // permission
+ *permission/:id (delete) // permission
+
+// auth
+*auth/login (post)
+*auth/refresh (post)
+*auth/password (post)
+*auth/forgot-password (post)
+*auth/reset-password (post)
+
+
+
+
+
+//plans 
+
+*project setup(git ignore)
+*es-lint
+*prettier
+*husky and lint stage
+
+
 using azile method
 
 ******

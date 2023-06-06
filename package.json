@@ -6,9 +6,10 @@
   "scripts": {
     "startdev": "ts-node-dev --respawn --transpile-only ./src/server.ts",
     "lint": "eslint --ignore-path .eslintignore --ext .js,.ts .",
-    "lint:fix": "eslint --fix",
+    "lint:fix": "eslint . --fix",
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
-    "lint-prettier": "yarn lint && yarn formate"
+    "prettier:fix": "prettier --write .",
+    "lint-prettier": "yarn lint && yarn format"
   },
   "lint-staged": {
     "src/**/*.ts": "yarn lint-prettier"

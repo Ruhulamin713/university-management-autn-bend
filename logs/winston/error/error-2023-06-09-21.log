@@ -1,0 +1,18 @@
+{
+  level: 'error',
+  message: 'Failed to connect. Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"',
+  stack: 'MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"\n' +
+    '    at new ConnectionString (/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/node_modules/mongodb-connection-string-url/src/index.ts:133:13)\n' +
+    '    at parseOptions (/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/node_modules/mongodb/src/connection_string.ts:252:15)\n' +
+    '    at new MongoClient (/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/node_modules/mongodb/src/mongo_client.ts:341:34)\n' +
+    '    at _createMongoClient (/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/node_modules/mongoose/lib/connection.js:887:14)\n' +
+    '    at NativeConnection.openUri (/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/node_modules/mongoose/lib/connection.js:742:29)\n' +
+    '    at Mongoose.connect (/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/node_modules/mongoose/lib/index.js:406:15)\n' +
+    '    at /home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/src/server.ts:8:20\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at /home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/src/server.ts:8:71\n' +
+    '    at new Promise (<anonymous>)',
+  label: 'UM',
+  timestamp: '2023-06-09T15:43:45.828Z'
+}
+Fri Jun 09 2023 21:53:23 [UM] error: Failed to connect. Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"

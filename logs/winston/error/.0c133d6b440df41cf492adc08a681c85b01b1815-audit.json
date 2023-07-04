@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/.0c133d6b440df41cf492adc08a681c85b01b1815-audit.json",
+    "files": [
+        {
+            "date": 1686325277532,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-06-09-21.log",
+            "hash": "44dc3824122204b185d70dada269a955a0e9e4f6f37baba19d8c96be30b0ba2b"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,3 @@
+Wed Jun 21 2023 7:20:10 [UM] error: globalErrorHandler User validation failed: role: Path `role` is required.
+Wed Jun 21 2023 7:21:23 [UM] error: globalErrorHandler
+Wed Jun 21 2023 7:58:0 [UM] error: unhandled promise rejection

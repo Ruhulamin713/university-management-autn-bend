@@ -1,0 +1,140 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/.0a3b672771136e3b99ec834eaaa1ce6fcf0990db-audit.json",
+    "files": [
+        {
+            "date": 1687309906740,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-21-06-07.log",
+            "hash": "93d33772026b26762bc5e993060994c3fdf33b5ed6c0163355e044f33ddc16bd"
+        },
+        {
+            "date": 1687312861989,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-21-06-08.log",
+            "hash": "d092b10b9c94e7e6149c2da3769e72e6b2a5512e1775b03b58dbe8b83e46e935"
+        },
+        {
+            "date": 1687317652121,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-21-06-09.log",
+            "hash": "05e528d326f748a586847089eea672c0e9d6a9424bff2337e708e34e517f5833"
+        },
+        {
+            "date": 1687335716066,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-21-06-14.log",
+            "hash": "1d65caa351486946bbfedbbbbaa61aea2daf7cee93f86a034a587851aa3d4d87"
+        },
+        {
+            "date": 1687349774554,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-21-06-18.log",
+            "hash": "cd3f8314e76dce7be922cd6aeb8abe50eb7d9733480578047c314300a2524bc9"
+        },
+        {
+            "date": 1687354218835,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-21-06-19.log",
+            "hash": "af9ca1cd051153bd1640588968932fa30ae8a446d53f46e6b3d0bf084725ba93"
+        },
+        {
+            "date": 1687356391852,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-21-06-20.log",
+            "hash": "d42085b174a4f352dd4021c47a237766eca468b87cd608135f984963605f487c"
+        },
+        {
+            "date": 1687364615727,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-21-06-22.log",
+            "hash": "09751bee48b552ecbdfc6d691ba7e33418f75d4b497befd11f8a80df8d113f10"
+        },
+        {
+            "date": 1687518216977,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-23-06-17.log",
+            "hash": "3333dc1a598bcc9dc3094bd0fb36de2effe1bb394561acdf88afea496c76b55f"
+        },
+        {
+            "date": 1687522792103,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-23-06-18.log",
+            "hash": "b69ab5d194735ed956c6a630edafb1a18a63bc2fcd2406bfde588ad3239cb4da"
+        },
+        {
+            "date": 1687534830565,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-23-06-21.log",
+            "hash": "0fe0f88c99f8fed0a3a48ec8e131c8150c658cfa57599e3eadd3891f3b5cf928"
+        },
+        {
+            "date": 1687536154593,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-23-06-22.log",
+            "hash": "38989a1c2976f6501207b76d7fee704d24d09b2eee6ea5b0d0d75166e7216fa3"
+        },
+        {
+            "date": 1687581853665,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-24-06-10.log",
+            "hash": "66248d69d68f2be8a2e0caea38b9f795ad89dc22267937ad78eb9c7fc6a90388"
+        },
+        {
+            "date": 1687583842902,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-24-06-11.log",
+            "hash": "797d43a5bd7081f7bf4082d1847d32cea7e9695e1392da073ac1ab850cd15a5b"
+        },
+        {
+            "date": 1687586997581,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-24-06-12.log",
+            "hash": "d09fef7c81a6618acb2c6e2565779b45b6bf6ce53bab2d2ebfa6d538fda4002f"
+        },
+        {
+            "date": 1687617741242,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-24-06-20.log",
+            "hash": "3efc7f491a380a5f00b09810b0aa2e3efbe82e84f6dcc195bca00514e0443d63"
+        },
+        {
+            "date": 1687924474692,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-28-06-09.log",
+            "hash": "bb6c3309ccc22515844f55ac015c87f101fe5568ef19f75d9115ba83276adaed"
+        },
+        {
+            "date": 1687924993407,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-28-06-10.log",
+            "hash": "fc1cd5db11d665db7756362dc4148df61a2b830fe20fa6d659a7d07b0b7387ff"
+        },
+        {
+            "date": 1687939841823,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-28-06-14.log",
+            "hash": "32745e2d9c0470a24479332e31a850458b51a938befd0d5a29ba940a5f270e95"
+        },
+        {
+            "date": 1687942941410,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-28-06-15.log",
+            "hash": "e9ec5ff77108e08767b5c0e33cd5c79867001c31eb029582fdf6e1333fffc073"
+        },
+        {
+            "date": 1688462516768,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-04-07-15.log",
+            "hash": "904176fa3c32435c9f8adaa11463420b85dfe0c64997dd3cc155d011f47fa4c2"
+        },
+        {
+            "date": 1688465827866,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-04-07-16.log",
+            "hash": "f6cf0f80f29ad68b225df6accbc1a088e9badd025080e1c8e05d9a7f5f1e384b"
+        },
+        {
+            "date": 1688468811149,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-04-07-17.log",
+            "hash": "78ca3bdd6d2b1fba92e046254e55f54c7910af7285adf995c74e3fc3e91ee277"
+        },
+        {
+            "date": 1688477104898,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-04-07-19.log",
+            "hash": "29438c5e1283d5efda1ee02b29c6987ba04dc0c3f3bcb5bca373cb85206baf93"
+        },
+        {
+            "date": 1688480431805,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-04-07-20.log",
+            "hash": "55ab4b43c79f353e42190f6320c2751e331406ce79b782cb6af1ae1acf556a68"
+        },
+        {
+            "date": 1688486926363,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/error/error-2023-04-07-22.log",
+            "hash": "ed69a980c7bf5c253252bf113e193c3cae7cf70244c0046d36e8b2982fa0cecd"
+        }
+    ],
+    "hashType": "sha256"
+}

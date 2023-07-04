@@ -1,0 +1,135 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/.2b8861a5b53f51343c08ccfb525edd9c669a0ad7-audit.json",
+    "files": [
+        {
+            "date": 1687309906733,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-21-06-07.log",
+            "hash": "606970160af71a82b5bbcd0a66432e750de1ff961912bfd4e7301ce039557264"
+        },
+        {
+            "date": 1687312861985,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-21-06-08.log",
+            "hash": "b2b3faa8c33fecd937ffedfb33253e5eefc46d3a049cf5e30e0f9ba4e0f94b1e"
+        },
+        {
+            "date": 1687317652115,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-21-06-09.log",
+            "hash": "b96066014cafe4a14b4906fc13ccccaecc4c8641fd4284194d7743cc73dba4ea"
+        },
+        {
+            "date": 1687335716049,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-21-06-14.log",
+            "hash": "0a64e9af1797acf2de28bb26b441b3a4b641068923db1e72fbad218b8f25861c"
+        },
+        {
+            "date": 1687354218831,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-21-06-19.log",
+            "hash": "f916234f7b68c8482636e437be8a04ecd1659dffc1f357f608e6ecdfb726a67e"
+        },
+        {
+            "date": 1687356391848,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-21-06-20.log",
+            "hash": "91a17ac61d20df5fd80f0760c6188aa54caee87eedad159822a58c3d9359d5bd"
+        },
+        {
+            "date": 1687364615719,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-21-06-22.log",
+            "hash": "1378ae8c4f3fb910954e7f8d18ef454d2f7607dbba106857e5e19736fd73e0ff"
+        },
+        {
+            "date": 1687518216973,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-23-06-17.log",
+            "hash": "a9ef8c089dd8ba678a6ca8090cadc76dba4e60ed6d143ec803d9e4036d146938"
+        },
+        {
+            "date": 1687522792097,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-23-06-18.log",
+            "hash": "f95c9cedf0fb7129309847d5c70f0881287a7c189b400c280e5944a0649d4f01"
+        },
+        {
+            "date": 1687534830553,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-23-06-21.log",
+            "hash": "788811b71a9c5a4819ad091fb839e2d500c38284f078f632686c0514cd13a98a"
+        },
+        {
+            "date": 1687536154587,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-23-06-22.log",
+            "hash": "d9832e94b88f61baadeb1bd3ff42b0c6c92dd87bf8493615927b88d0bf007fd7"
+        },
+        {
+            "date": 1687581853660,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-24-06-10.log",
+            "hash": "ce2c7ba02274a5b640067966660c33adcb3d546e6d8787197a85051120dc83d4"
+        },
+        {
+            "date": 1687583842896,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-24-06-11.log",
+            "hash": "3b96f2dddde4f67e042c32ad532134358af736fba29ea376b15cbe8337d866b9"
+        },
+        {
+            "date": 1687586997575,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-24-06-12.log",
+            "hash": "6b9a91a9601b6ae16a53dce071b17020001312ad3627bf1d1c4b582d62ce0a6c"
+        },
+        {
+            "date": 1687617741237,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-24-06-20.log",
+            "hash": "200514b071bfba6a9693e40e01c6712a3baf9f679962173995cd7178c036c990"
+        },
+        {
+            "date": 1687924474688,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-28-06-09.log",
+            "hash": "8df73093c51d122861dc81468e7188af49fd79e811ab8bfcdc78a7c6492cef2e"
+        },
+        {
+            "date": 1687924993399,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-28-06-10.log",
+            "hash": "996639405f7fc458858b29ca7801d56855ff91b127d8f25fe664e38c03b153a7"
+        },
+        {
+            "date": 1687939841818,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-28-06-14.log",
+            "hash": "d537c34e7d59c3296afb381c0c4f445db81466cacd1e81214731f429b5775483"
+        },
+        {
+            "date": 1687942941406,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-28-06-15.log",
+            "hash": "a780a93fd6779ae42a8871720f8648f2ef22c3454fe10716e73a8631de953137"
+        },
+        {
+            "date": 1688462516761,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-04-07-15.log",
+            "hash": "fecc95a295ef67c48ba66cb793449a4572041a4196117d90ad799e6b41a66fea"
+        },
+        {
+            "date": 1688465827861,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-04-07-16.log",
+            "hash": "bfa2b58d60aae3b979e9bb6d23ed9cce35f087dec16c4baf87eeb546ad6306d4"
+        },
+        {
+            "date": 1688468811143,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-04-07-17.log",
+            "hash": "2d6b381aca4ac33e8deef3a430beba2d8ffcc99777c5903a0a58a77da694ad8b"
+        },
+        {
+            "date": 1688477104879,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-04-07-19.log",
+            "hash": "19ff15fca001a17c7c3180ccb757a3e029a398e6da3ba59a2a98be7248a5249e"
+        },
+        {
+            "date": 1688480431798,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-04-07-20.log",
+            "hash": "d8f1ee6acae959765246a9c44cc99fd8634e226a9ddef59ff247f255ead4a127"
+        },
+        {
+            "date": 1688486926354,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-04-07-22.log",
+            "hash": "c3496778e631e1d011ed19b1529372e4247151e53f6e892210648d6d531b6661"
+        }
+    ],
+    "hashType": "sha256"
+}

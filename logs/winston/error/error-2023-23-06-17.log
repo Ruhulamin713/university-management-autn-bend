@@ -1,0 +1,64 @@
+Fri Jun 23 2023 17:7:2 [UM] error: globalErrorHandler [
+  {
+    "expected": "'Autumn' | 'Summer' | 'Fall'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Title is required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Year is required"
+  },
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Code is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "startMonth"
+    ],
+    "message": "Start month is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "endMonth"
+    ],
+    "message": "End month is required"
+  }
+]
+Fri Jun 23 2023 17:21:42 [UM] error: globalErrorHandler [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  }
+]

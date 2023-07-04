@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/.1a424b460091267d72bdd2e8faa647030aa19f65-audit.json",
+    "files": [
+        {
+            "date": 1686325277528,
+            "name": "/home/ruhul/Desktop/typeScript/ph2typescript/module10-11-12/university-management-autn-bend/logs/winston/success/success-2023-06-09-21.log",
+            "hash": "517bf537a45f50648ab661b69c60b4e61d395aadb11c7ad934987470a351c599"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -119,7 +119,8 @@ Student Attribute/model
     email,
     gender,
     dateOfBirth,
-    permission
+    permission,
+    academic semester
 
 
 Admin Attribute/model
@@ -160,7 +161,18 @@ Faculty Attribute/model
     Faculty,
     designation
 
-
+Academic semester
+    title
+    year
+    code
+    startMonth
+    endMonth
+sample data
+    Autumn|Summer|Fall
+    2023
+    01|02|03
+    january
+    may
 
 // create diagram er diagram on draw.io
 
@@ -273,3 +285,40 @@ add "lint-staged": {
  in script 
  add yarn lint-staged in pre-commit file inside .husky
 
+/// there are two mood of NODE_ENV :- development and production
+you can see env setup with 
+app.get(env)
+you can set it with command line NODE_ENV=production or in .env file NODE_ENV=production
+
+// when we are in production we can not use console.log, it has some issue, 
+console.log is synchronous, 
+it creates some performance issue,
+store logs by retention,
+ we need logger package
+
+ we are going to use winston logger
+ installing winston
+ setup winston,
+ use winston rotation to maintain logs. 
+ make daily log file,delete old log file
+use winston-daily-rotate-file 
+
+******************error handling********************
+
+types of error:
+1.operational error:error while app is running.
+    *invalid inputs
+    *fail to run server
+    *failed to connect database
+    *broken links
+2.Programming error:developer created bug
+    *using undefined variable
+    *passing string insteadOf object
+    *using properties that do not exist 
+    *using req-query instead of body.  
+
+we will use a global error handler to handle  error,
+1.usually express automatically handle errors of synchronous code.
+
+
+use zod for validation

@@ -1,0 +1,17 @@
+Fri Jun 23 2023 22:5:40 [UM] error: globalErrorHandler [
+  {
+    "received": "summer",
+    "code": "invalid_enum_value",
+    "options": [
+      "Autumn",
+      "Summer",
+      "Fall"
+    ],
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Invalid enum value. Expected 'Autumn' | 'Summer' | 'Fall', received 'summer'"
+  }
+]
+Fri Jun 23 2023 22:6:1 [UM] error: globalErrorHandler Invalid semester code
